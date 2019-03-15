@@ -1,0 +1,12 @@
+Play Game
+1. As a user, I will be able to start the game.
+2. As user, I should be able to specify the number of Tokimons and Fokimons in game.
+3. Adds the arguments or go to cheat without entering the arguments:
+       a.Checks the arguments or Validate the arguments. 
+       b. If invalid arguments are entered exit the program.4. Correct Arguments entered, proceed the game.5. As a user, I should be able to see the Board if I placed the game in cheat mode.
+6. I should be able to see the board without any information if game is not in cheat mode.7. As a user, I want an interactive User Interface and user-friendly interface.
+8. User should be able to jump to any initial location of his choice.9. As a user, all the error should be handled without quitting the game.
+10. As a user, if I enter incorrect input, I should be provided with information as what to enter.11. I should be placed at correct initial location as entered by me.12. As a user, I should be able to move my current location to left, right, top, down.13. As user, I should be informed if the current location is empty, contains Tokimon or Fokimon.14. As a user, if I try to go out of the grid, I should not. This case should be handled correctly.
+15. As a user, I should also be able to use the spells.11. As a user, enough information should be provided to know how the each spell works and    the maximum number of times I can use a spell.
+12. If my spell limit is reached I should be informed with a message.
+13. The spell should do what it's on there. I should be moved to random location or remove a Fokimon or show Tokimon.12. As a user, I should be informed when I won and lost the game.13. As a user, I should be able the quit the game whenever I like.
