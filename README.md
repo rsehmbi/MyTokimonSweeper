@@ -100,3 +100,9 @@ enough information to express the important details of your design.
   methods or fields that explain how the classes will support their responsibilities.
 • You must use a computer tool to create the diagram. We will discuss some free software for doing this . You may not generate the diagram directly from your Java code.
 • Submit your UML diagram as a PDF or image file named CLASSDIAGRAM.PDF (or .PNG, or .JPG, ...) in the docs/ folder.
+
+## FINAL OUTCOME
+<img width="504" alt="Screen Shot 2019-04-11 at 7 54 55 PM" src="https://user-images.githubusercontent.com/45884656/56009174-bea5de00-5c93-11e9-8d48-07f92c7b3078.png">
+<img width="519" alt="Screen Shot 2019-04-11 at 7 54 26 PM" src="https://user-images.githubusercontent.com/45884656/56009176-bea5de00-5c93-11e9-8599-5a3ef175db72.png">
+<img width="505" alt="Screen Shot 2019-04-11 at 7 54 02 PM" src="https://user-images.githubusercontent.com/45884656/56009177-bea5de00-5c93-11e9-95e5-983f6c427668.png">
+
